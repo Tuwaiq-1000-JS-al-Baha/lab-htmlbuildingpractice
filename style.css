@@ -1,0 +1,12 @@
+body {
+    font-family:'Times New Roman', Times, serif
+}
+.tall {
+    font-weight:bold;
+}
+.paragraphCon {
+    font-style: italic;
+}
+th,td {
+    text-align: left;
+}
