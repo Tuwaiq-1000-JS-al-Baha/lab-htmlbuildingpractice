@@ -1,0 +1,44 @@
+#p1{
+    font-size: 50px;
+    font-weight: bold;
+
+}
+
+ol{
+    font-size: large;
+    font-weight: bold;
+}
+
+ul{
+    font-size: large;
+    font-weight: bold;
+}
+
+#boldt{
+    font-weight: bold;
+    font-size: large;
+}
+#pp{
+    font-size: large;
+}
+#span2{
+    font-style: italic;
+    font-weight: bold;
+}
+#name{
+    font-size: 25px;
+    font-weight: bolder;
+    text-align: left;
+}
+
+.td{
+    font-size: 20px;
+    text-align: left;
+}
+
+.link{
+text-align:left;
+font-size: 17px;
+border-spacing: 0px;
+}
+
