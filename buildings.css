@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(219, 211, 177);
+    border: 3px solid black;
+    padding-bottom: 170px;
+}
+
+h1{
+ color: maroon;
+ text-align: center;
+}
+
+h2{
+    color:rgb(148, 22, 22);
+    margin-left: 20px ;
+}
+li{
+    margin-left: 30px ;
+    font-size: 20px;
+}
+p{
+    font-size: 20px;
+    margin-left: 30px ;
+}
+table{
+    
+    border-collapse: collapse ;
+    width: 50%;
+    text-align: center;
+    color: brown;
+    margin: 50px 30px 50px 300px;
+    padding: 0px 30px 50px 100px;
+}
+
+th {
+  border: 1px solid black; 
+  height: 40px;
+ 
+}
+td{
+  border: 1px solid black;
+  padding: 10px; 
+  margin: 10px;
+}
+  
