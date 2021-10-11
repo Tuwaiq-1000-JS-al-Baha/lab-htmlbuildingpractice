@@ -1,0 +1,13 @@
+html{font-weight: 500;}
+.italic{
+    font-style: italic;
+}
+tr{
+    text-align: left;
+}
+th {
+    font-weight: 800;
+}
+span{
+    font-weight: 900;
+}
