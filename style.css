@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(230, 218, 202);
+}
+h1 {
+font-style: italic;
+font-size: 60px;
+text-transform: capitalize;
+color: cadetblue;
+}
+h2 {
+font-size: 30px;
+color: rgb(7, 66, 66);
+}
+
+ol {
+    font-size: 20px;
+    color: darkgoldenrod;
+}
+ul {
+    font-size: 20px;
+    color: darkgoldenrod;
+}
+
+p {
+   font-size: 45px;
+   color: rgb(7, 66, 66)
+}
+h3 {
+    font-size: 30px;
+    color: darkgoldenrod;
+}
+table {
+    width: 80%;
+    background-color: rgb(96, 157, 197);
+}
+td {
+    border: 1px solid rgb(14, 15, 15);
+    color: rgb(39, 28, 8);
+}
+th {
+    border: 1px solid rgb(14, 15, 15);
+    color: rgb(39, 28, 8);
+}
